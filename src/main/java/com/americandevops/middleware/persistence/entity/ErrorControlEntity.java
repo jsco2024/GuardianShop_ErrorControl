@@ -6,7 +6,7 @@ import lombok.*;
 import java.util.Date;
 
 @Entity
-@Table(name = "ERROR_CONTROL", schema = "MIDDLEWARE")
+@Table(name = "ERROR_CONTROL", schema = "railway")
 @NoArgsConstructor
 @Getter
 @Setter
